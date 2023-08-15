@@ -10,7 +10,11 @@
 Fork of <https://github.com/orcasgit/django-fernet-fields> . See docs
 there. The only changes made here are to support Django 4.
 
+This app is available on [PyPI][pypi] and can be installed with `django-fernet-fields-v2`.
+
 # Contributing
 
 See the [contributing
 docs](https://github.com/MichelML/django-fernet-fields/blob/master/CONTRIBUTING.rst).
+
+[pypi]: https://pypi.org/project/django-fernet-fields-v2/
