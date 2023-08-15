@@ -1,6 +1,6 @@
 [project]
 name = "django_fernet_fields_v2"
-version = "0.8"
+version = "0.9"
 authors = [
   { name="MichelML", email="michmoreau.l@gmail.com" },
 ]

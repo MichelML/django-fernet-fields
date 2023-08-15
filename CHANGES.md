@@ -1,6 +1,6 @@
 # CHANGES
 
-## master (unreleased)
+## 0.9 (2023.07.15)
 
  - Add support for Django 3.2, 4.1 & 4.2
  - Add support for Python 3.8, 3.9, 3.10 & 3.11
