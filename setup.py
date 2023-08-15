@@ -21,6 +21,6 @@ setup(
     author_email="michmoreau.l@gmail.com",
     url="https://github.com/MichelML/django-fernet-fields/",
     packages=find_packages(),
-    install_requires=["Django>=4.0", "cryptography>=0.9"],
+    install_requires=["Django>=3.2", "cryptography"],
     zip_safe=False,
 )

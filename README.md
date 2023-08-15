@@ -1,8 +1,8 @@
   django-fernet-fields-v2
   ------------------------------------------------------------------------------------------------------------------------
   [Fernet](https://cryptography.io/en/latest/fernet/) symmetric encryption for Django model fields, using the
-  [cryptography](https://cryptography.io/en/latest/) library and supports Django \>=4.0 .
-  `django-fernet-fields-v2` supports [Django](http://www.djangoproject.com/) 4.0 and later on Python 3.8, 3.9, and 3.10.
+  [cryptography](https://cryptography.io/en/latest/) library and supports Django \>=3.2 .
+  `django-fernet-fields-v2` supports [Django](http://www.djangoproject.com/) 3.2 and later on Python 3.8, 3.9, 3.10 and 3.11
   Only PostgreSQL, SQLite, and MySQL are tested, but any Django database backend
   with support for `BinaryField` should work.
   Getting Help
